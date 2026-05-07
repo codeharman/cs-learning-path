@@ -43,3 +43,13 @@ end = 5 + 1
 for i in range(start, end):
   mysum += i
 print(mysum)
+
+# finger exercise lecture 3
+
+n = 5
+for i in range(n):
+  print('hello world')
+
+while n > 0:
+  print('hello world while loop')
+  n -= 1
